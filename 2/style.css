@@ -1,0 +1,17 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    box-sizing: border-box;
+
+}
+
+.flag {
+    border: 1px solid black;
+    display: inline-block;
+}
+
+.flag img {
+    padding: 5px;
+}
